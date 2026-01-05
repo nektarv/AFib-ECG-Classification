@@ -1,4 +1,4 @@
-# Classifying atril fibrillation patients from ECG signals
+# Classifying atrial fibrillation patients from ECG signals
 This is a group project for the **Measurement and Control in Biomedical Engineering** course at **NTUA**.
 
 ## Dataset
